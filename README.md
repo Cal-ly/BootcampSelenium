@@ -45,11 +45,3 @@ This file demonstrates how to open a browser, navigate to DuckDuckGo, wait for t
 - **OpenDuckDuckGoTest_ShouldOpenBrowser_AddText**: This test method navigates to DuckDuckGo's homepage, maximizes the browser window, waits for the search box to be visible, enters the text "Selenium C# tutorial", and submits the search form.
 
 For more details, you can view the file [here](https://github.com/Cal-ly/BootcampSelenium/blob/main/BootcampTests/OpenSearchEngineTest.cs).
-
-## Repository Information
-
-- **Description**: Bootcamp Selenium test
-- **Primary Language**: C#
-- **Repository URL**: [BootcampSelenium](https://github.com/Cal-ly/BootcampSelenium)
-
-Feel free to explore the repository and use the provided examples to enhance your Selenium WebDriver knowledge and skills.
